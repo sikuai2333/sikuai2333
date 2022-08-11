@@ -6,11 +6,13 @@
 </h1>
 
 <!-- 仓库详情   -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sikuai2333&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sikuai2333&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /> </div>
+<!-- 个人仓库介绍 -->
+<div align="center"> <img src="https://metrics.lecoq.io/2333?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!-- GitHub 活动统计图 -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sikuai2333&theme=xcode" /> </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333)](https://github.com/sikuai2333/github-readme-stats)
