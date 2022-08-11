@@ -17,6 +17,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /> </div>
 <div>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 灵魂提问：
 -
 	
@@ -39,9 +42,15 @@ A:什么感兴趣就看看呗，暂时没有准确方向💬<br>
 <!-- GitHub 活动统计图 -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sikuai2333&theme=xcode" /> </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333)](https://github.com/sikuai2333/github-readme-stats)
-
+	
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 您是第![Visitor Count](https://profile-counter.glitch.me/sikuai2333/count.svg)位来访的游客，欢迎光临~~
 
