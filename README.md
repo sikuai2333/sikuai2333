@@ -1,4 +1,12 @@
-### Hi there 👋
+这是一个小菜鸡的GitHub
+=
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikuai2333&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333)](https://github.com/sikuai2333/github-readme-stats)
+
+
+
+共有![Visitor Count](https://profile-counter.glitch.me/sikuai2333/count.svg)位伙伴来访
 
 <!--
 **sikuai2333/sikuai2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
