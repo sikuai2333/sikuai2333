@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /> </div>
 
 <!-- 个人仓库介绍 -->
-<div align="left"> <img src="https://metrics.lecoq.io/sikuai2333?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="left"> <img src="https://metrics.lecoq.io/sikuai2333?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
 
 <!-- GitHub 活动统计图 -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sikuai2333&theme=xcode" /> </div>
