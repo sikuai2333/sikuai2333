@@ -1,6 +1,13 @@
 这是一个小菜鸡的GitHub
 =
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikuai2333&show_icons=true&theme=tokyonight)
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333)](https://github.com/sikuai2333/github-readme-stats)
 
