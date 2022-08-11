@@ -1,6 +1,9 @@
 <html>
 <head>
 <meta charset="utf-8">
+	 <script>
+  var OriginTitile = document.title,titleTime;document.addEventListener("visibilitychange",function() { if (document.hidden) { document.title = "╮(╯﹏╰）╭ 你走啦！"; clearTimeout(titleTime) } else { document.title = "⎛⎝≥⏝⏝≤⎛⎝你又回来啦！" ; titleTime = setTimeout(function() { document.title = OriginTitile }, 1000) }});
+  </script>
 </head>
 
 <body>
