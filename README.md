@@ -1,3 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://bing.com/">
@@ -8,21 +15,25 @@
 <!-- 仓库详情   -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sikuai2333&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikuai2333&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /> </div>
-
+<div>
+	<h4>
 灵魂提问：
----
-Q:你是谁？
-A:我是四块鸭，至于真名不重要的~
+</h4>
+	<h5>
+Q:你是谁？<br>
+A:我是四块鸭，至于真名不重要的~<br>
+		
 
-Q:你在哪？
-A:现居淮师大某野生猿栖息地
+Q:你在哪？<br>
+A:现居淮师大某野生猿栖息地<br>
 
-Q:你要干什么？
-A:现阶段当然是学习啦（不过成绩上并不能反映这点🤔）
+Q:你要干什么？<br>
+A:现阶段当然是学习啦（不过成绩上并不能反映这点🤔）<br>
 
-Q:有具体发展方向吗？
-A:什么感兴趣就看看呗，暂时没有准确方向💬
-
+Q:有具体发展方向吗？<br>
+A:什么感兴趣就看看呗，暂时没有准确方向💬<br>
+		</h5>
+</div>
 <div >
 <!-- GitHub 活动统计图 -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sikuai2333&theme=xcode" /> </div>
@@ -50,3 +61,6 @@ Here are some ideas to get you started:
 <!-- 个人仓库介绍
 <div align="left"> <img src="https://metrics.lecoq.io/sikuai2333?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
  -->
+
+</body>
+</html>
