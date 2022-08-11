@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -18,7 +17,7 @@
 <div>
 	<h4>
 灵魂提问：
-</h4>
+</h2>
 	<h5>
 Q:你是谁？<br>
 A:我是四块鸭，至于真名不重要的~<br>
