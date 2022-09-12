@@ -21,22 +21,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sikuai2333/sikuai2333/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 灵魂提问：
--
-	
-<h3>	
-Q:你是谁？<br>
-A:我是四块鸭，至于真名不重要的~<br>
-		
-<br>
-Q:你在哪？<br>
-A:现居淮师大某野生猿栖息地<br>
-<br>
-Q:你要干什么？<br>
-A:现阶段当然是学习啦（不过成绩上并不能反映这点🤔）<br>
-<br>
-Q:有具体发展方向吗？<br>
-A:什么感兴趣就看看呗，暂时没有准确方向💬<br>
-		</h3>
+<h4>
+太沙雕了，所以删了
+</h4>
 </div>
 <div >
 <!-- GitHub 活动统计图 -->
