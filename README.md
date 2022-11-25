@@ -20,9 +20,6 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sikuai2333/sikuai2333/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-灵魂提问：
-<h4>
-太沙雕了，所以删了
 </h4>
 </div>
 <div >
