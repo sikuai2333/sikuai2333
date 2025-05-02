@@ -41,12 +41,7 @@
 
 <br>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sikuai2333/sikuai2333/contribution-snake/github-contribution-grid-snake.svg" />
-</div>
 
-<br>
 
 <!-- 技能徽章 -->
 <div align="center">
